@@ -2,8 +2,9 @@
 <br/>
 
 총 2개의 개인 프로젝트를 진행하였습니다.
-1. https://church-blush.vercel.app/ (교회 홈페이지)
-2. http://hobbysns.tk/ (sns)
+1. http://hobbysns.tk/ (sns)
+2. https://church-blush.vercel.app/ (교회 홈페이지)
+
 <br/>
 
 💪 공부한 것:
