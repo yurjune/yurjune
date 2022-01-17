@@ -5,6 +5,8 @@
 1. http://hobbysns.tk/ (sns)
 2. https://church-blush.vercel.app/ (교회 홈페이지)
 
+포트폴리오: https://ablaze-hollyhock-e8d.notion.site/0967c0342b174321a74c328ab0cd6f08
+
 <br/>
 
 💪 공부한 것:
