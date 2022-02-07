@@ -7,7 +7,7 @@
 2. https://church-blush.vercel.app/ (교회 홈페이지)
 <br/>
 
-+ 포트폴리오: https://ablaze-hollyhock-e8d.notion.site/0967c0342b174321a74c328ab0cd6f08
++ 포트폴리오: https://ablaze-hollyhock-e8d.notion.site/My-Portfolio-0b7437fa2273438fa40823c67c1f7e0e
 <br/>
 
 
